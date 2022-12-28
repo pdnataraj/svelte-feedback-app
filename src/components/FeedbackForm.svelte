@@ -46,7 +46,7 @@
 
 <Card>
     <header>
-        <h2>How would yo rate your service with us?</h2>
+        <h2>How would you rate your service with us?</h2>
     </header>
     <form on:submit|preventDefault={handleSubmit} >
         <!-- Rating Select -->
